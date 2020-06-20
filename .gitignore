@@ -2,6 +2,7 @@ node_modules/
 uncaughtExceptions.log
 
 seed.js
-logfile.log
 
 uncaughtExceptions.log
+
+.DS_Store
