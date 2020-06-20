@@ -92,3 +92,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-06-20T03:05:39.275Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-06-20T03:13:08.927Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-06-20T03:13:08.957Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-06-20T06:03:00.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-06-20T06:03:00.897Z"}
