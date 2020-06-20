@@ -3,6 +3,8 @@ uncaughtExceptions.log
 
 seed.js
 
-uncaughtExceptions.log
+logfile.log
+
+uncaughtExceptions_Z.log
 
 .DS_Store
