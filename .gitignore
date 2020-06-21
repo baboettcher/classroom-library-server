@@ -5,6 +5,7 @@ seed.js
 
 logfile.log
 
-uncaughtExceptions_Z.log
+uncaughtExceptions.log
 
 .DS_Store
+
